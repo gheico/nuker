@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="from", 9x1 
+https://hfs264.serversicuro.cc/hls/dnzpeftv2pg4a3gyvcxx5ybqyrx6nyvdlsuvx6nnoemwo37gnbf4mvs3wrnq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-0 Bolivision (La Paz)
